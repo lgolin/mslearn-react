@@ -8,7 +8,7 @@ This project was developed using the following technologies:
 
 - [React](https://reactjs.org)
 - [TypeScript](https://www.typescriptlang.org/)
-- [Sass](https://sass-lang.com/)
+- [Snowpack](https://www.snowpack.dev/)
 
 ## 🚀 Getting started
 
